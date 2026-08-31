@@ -1,4 +1,4 @@
-# agents.md — screenshots
+# AGENTS.md — screenshots
 
 ## Repository Overview
 
